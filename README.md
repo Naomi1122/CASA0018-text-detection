@@ -1,8 +1,11 @@
 # CASA0018
 ## Project Idea
+
 The project aim is to build a text detection system to extract text from real-world images, can be devided into 2 steps:
 1. text detection, use segmentation techniques
 2. text recognition, extract raw text from the cropped part of the input images
+
+Project physical platform: ios iphone
 
 Here is an example to show the process pipeline
 ![ocr pipeline](https://user-images.githubusercontent.com/78373920/223587531-a6dea7c3-0fdb-41b9-9cf0-9a9bbb33d72a.jpg)
